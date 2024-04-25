@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1711571232 source:c:\users\54113\workspace\programacion-c\ejercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matematica.h"
+
+1711571015 c:\users\54113\workspace\programacion-c\ejercicios\matematica.h
+
+1711571297 source:c:\users\54113\workspace\programacion-c\ejercicios\matematica.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"matematica.h"
+

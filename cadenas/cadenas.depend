@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1712782125 source:c:\users\54113\workspace\programacion-c\cadenas\cadenas.c
+	<stdio.h>
+	<stdlib.h>
+
+1712782214 source:c:\users\54113\workspace\programacion-c\cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+
+1712782066 c:\users\54113\workspace\programacion-c\cadenas\cadenas.h
+

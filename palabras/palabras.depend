@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1713565602 source:c:\users\54113\workspace\programacion-c\palabras\palabras.c
+	<stdio.h>
+	<stdlib.h>
+	"palabras.h"
+
+1713565434 source:c:\users\54113\workspace\programacion-c\palabras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"palabras.h"
+
+1713564843 c:\users\54113\workspace\programacion-c\palabras\palabras.h
+

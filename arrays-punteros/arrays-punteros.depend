@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1712195291 source:c:\users\54113\workspace\programacion-c\arrays-punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"punteros.h"
+
+1712191069 c:\users\54113\workspace\programacion-c\arrays-punteros\punteros.h
+
+1712195236 source:c:\users\54113\workspace\programacion-c\arrays-punteros\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	"punteros.h"
+
